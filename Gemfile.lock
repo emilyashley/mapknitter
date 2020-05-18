@@ -150,7 +150,7 @@ GEM
     mini_portile2 (2.4.0)
     mini_racer (0.2.10)
       libv8 (> 7.3)
-    minitest (5.14.0)
+    minitest (5.14.1)
     minitest-reporters (1.4.2)
       ansi
       builder
